@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "autoprefixer": "9.6.0",
+    "autoprefixer": "10.4.7",
     "classnames": "2.2.6",
     "postcss": "8.4.14",
     "react": "17.0.1",
